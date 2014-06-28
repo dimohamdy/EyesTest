@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirstTabInfo</key>
+	<array>
+		<string>أطبع ورقة علامات إختبار النظر ثم علقها على الحائط فى مستوى العينين على بعد 3 متر من العين.</string>
+		<string>قم بإختبار كل عين على حدة</string>
+		<string>إن لم يمكنك رؤية الصف الأخير بوضوح فعليك التوجة لعيادة مركز طيبة للعيون ليقوم الطبيب بالكشف على العينين</string>
+	</array>
+	<key>SecendTabInfo</key>
+	<array>
+		<string>اختار صورة واحدة فقط لمناظرتها</string>
+		<string>هل تستطيع رؤية الرقم داخل الدائرة؟</string>
+		<string>إن استطعت أن ترى الأرقام كلها فلا يوجد عندك عمى ألوان</string>
+		<string>إن لم تستطع رؤية الأرقام فعليك استشارة الطبيب بمركز طيبة للعيون</string>
+	</array>
+	<key>Images</key>
+	<array>
+		<string>Color5.jpg</string>
+		<string>Color6.jpg</string>
+		<string>Color8.jpg</string>
+		<string>Color25.jpg</string>
+		<string>Color29.jpg</string>
+		<string>Color45.jpg</string>
+		<string>Color56.jpg</string>
+	</array>
+</dict>
+</plist>
